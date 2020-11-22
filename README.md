@@ -1,3 +1,4 @@
+# Project: Under The Sky - Sentiment Youtube Comments for Vietnamese
 # NLP_youtubeViet
 Multi-Class Text Classification With Machine Learning Using SVM.
 Big thump up to Mr Van Nam Dang for his advice and supervision throught this simple project.
