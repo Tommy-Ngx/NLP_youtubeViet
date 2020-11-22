@@ -1,5 +1,5 @@
 # NLP_youtubeViet
-Multi-Class Text Classification With Machine Learning Using SVM
+Multi-Class Text Classification With Machine Learning Using SVM.
 Big thump up to Mr Van Nam Dang for his advice and supervision throught this simple project.
 
 Special thank to Williams for his project to crawl data:
